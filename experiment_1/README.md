@@ -21,7 +21,7 @@ A blazing-fast Python agent that connects to a custom **Math server** via [LangC
 ## 🗂 Project Structure
 
 ```
-mcp-project-1/
+mcp/experiment_1/
 ├── my_client.py      # Starts the REACT agent and sends a math question
 ├── my_server.py      # MCP server exposing `add` and `multiply` tools
 ├── pyproject.toml    # Poetry config with dependencies
