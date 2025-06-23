@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment (Poetry-managed, local)
+.venv/
+
+# Environment files
+.env
+.env.*
+
+# macOS and system files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE config
+.vscode/
+.idea/
+
+# Test/coverage output
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
+pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
